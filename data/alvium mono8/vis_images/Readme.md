@@ -1,0 +1,1 @@
+output dir for captured images 
